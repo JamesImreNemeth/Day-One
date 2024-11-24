@@ -1,8 +1,8 @@
-Expections for Coaches
+Expectaions for Coaches
 
-1. Provide guideance when needed
+1. Provide guidance when needed
 2. Provide structure when learning new concepts
-3. Responed to questions in a timely manner
+3. Responses to questions in a timely manner
 4. To inlcude everyone 
 5. Be easily apporachable so we can feel comfortable around them
 
