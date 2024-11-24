@@ -10,6 +10,6 @@ Expectaions for Ourselves
 
 1. Maintain consistent attendance
 2. Try to code for at least 30 mins everyday
-3. Finished assigned work in a timely manner
+3. Finish assigned work on time
 4. Ask questions when we have any
 5. Help other students whenever they need assistance
