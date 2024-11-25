@@ -1,4 +1,4 @@
-Expectaions for Coaches
+Expectations for Coaches
 
 1. Provide guidance when needed
 2. Provide structure when learning new concepts
@@ -6,7 +6,7 @@ Expectaions for Coaches
 4. To inlcude everyone 
 5. Be easily apporachable so we can feel comfortable around them
 
-Expectaions for Ourselves
+Expectations for Ourselves
 
 1. Maintain consistent attendance
 2. Try to code for at least 30 mins everyday
