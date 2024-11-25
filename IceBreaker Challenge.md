@@ -1,7 +1,7 @@
 List of people and things in common
 
 1. Nathan - Both have degrees related to coding
-2. Petr - Both live in Sydney 
+2. Petr - Both know someone that enjoys dragoonboating
 3. Rhea - Both have degrees related to coding
 4. Nisha - We are both the middle child
 5. Nikita - Both live in Sydney 
